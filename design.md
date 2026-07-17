@@ -32,7 +32,8 @@ Clone visual/content style of reference site (https://techser-hj9uoj8-preview-42
 - Stats (UPDATED per user request): 3+ Anos de Experiência · 500+ Embarcações Atendidas · 24/7 Assistência de Emergência · 100% Clientes Satisfeitos
 - Services: Manutenção Preventiva, Manutenção Corretiva, Reparos de Motor, Reparos em Rabetas, Manutenção Geral, Assistência Náutica Especializada
 - Why us: Técnicos Certificados, Resposta Rápida, Peças Originais, Transparência Total
-- Contact: +55 (41) 99739-8179 · techservice.icc@gmail.com · Av. Agílio Leão de Macedo, 10 — Caiobá, Matinhos - PR, 83260-000, Brasil
+- Contact: +55 (41) 99739-8179 · techservice.icc@gmail.com · R. Agílio Leão Macedo, 57 — Praia Mansa, Matinhos - PR, 83260-000, Brasil
+- Portfolio section: "Nossos Trabalhos" (repair/maintenance job photos) and "Nossos Produtos" (El Shaddai fuel filter, Al Chaddai fuel additive), data-driven from `src/web/data/portfolio.ts` for easy future additions
 
 ## Motion
 - Staggered fade/slide-up reveal on scroll for hero text, stats, cards

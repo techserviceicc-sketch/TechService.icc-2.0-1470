@@ -12,6 +12,7 @@ import {
 import { SiteHeader } from "../components/site-header";
 import { WhatsAppButton } from "../components/whatsapp-button";
 import { Reveal } from "../components/reveal";
+import { PortfolioSection } from "../components/portfolio-section";
 
 const STATS = [
   { value: "3+", label: "ANOS DE EXPERIÊNCIA" },
@@ -251,6 +252,8 @@ function Index() {
         </div>
       </section>
 
+      <PortfolioSection />
+
       {/* FLEET & PARTNERS (id anchor) */}
       <section id="frota" className="border-b border-[#232830] bg-[#0d1117] py-28">
         <div className="mx-auto max-w-7xl px-6">
@@ -351,6 +354,7 @@ function Index() {
             </p>
             <ul className="space-y-2 text-sm text-[#9aa0aa]">
               <li>Sobre</li>
+              <li>Portfólio</li>
               <li>Frota & Parceiros</li>
               <li>Contato</li>
             </ul>
@@ -377,7 +381,7 @@ function Index() {
                 </a>
               </li>
               <li>
-                Av. Agílio Leão de Macedo, 10 — Caiobá, Matinhos - PR,
+                R. Agílio Leão Macedo, 57 — Praia Mansa, Matinhos - PR,
                 83260-000, Brasil
               </li>
             </ul>

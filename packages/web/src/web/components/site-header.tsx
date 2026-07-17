@@ -5,6 +5,7 @@ const NAV_LINKS = [
   { label: "INÍCIO", href: "#inicio" },
   { label: "SERVIÇOS", href: "#servicos" },
   { label: "SOBRE", href: "#sobre" },
+  { label: "PORTFÓLIO", href: "#portfolio" },
   { label: "FROTA & PARCEIROS", href: "#frota" },
   { label: "CONTATO", href: "#contato" },
 ];

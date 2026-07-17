@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techser-9xa22jj-preview-4200.runable.site/sitemap.xml
